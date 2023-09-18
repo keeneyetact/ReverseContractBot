@@ -1,14 +1,8 @@
 {
   "dependencies": {
     "dotenv": "^16.3.1",
-    "fast-csv": "^4.3.6",
-    "fs": "^0.0.1-security",
-    "node-tesseract-ocr": "^2.2.1",
-    "puppeteer": "^21.2.1",
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2",
-    "tesseract.js": "^4.1.2",
-    "tesseractocr": "^2.0.3",
     "unirest": "^0.6.0"
   }
 }
